@@ -1,0 +1,35 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.mainmenu{
+    text-align: center;
+}
+
+.btn1, .btn2, .btn3, .btn4{
+    display:inline-block;
+}
+
+form{
+    width:500px;
+}
+
+.iz{
+    text-align: center;
+}
+
+.text-outline {
+    color: #FFFFFF;
+    font-weight: bold;
+    text-shadow:
+      -1px -1px 0 #000,
+      1px -1px 0 #000,
+      -1px 1px 0 #000,
+      1px 1px 0 #000;
+  }
+
